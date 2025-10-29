@@ -16,6 +16,8 @@ Enable editing
 
 Use filters and charts to explore performance
 
+!## [Dashboard Preview](dashboard_preview.png)
+
 Created by [Shaik Abdul Musavir]
 
 Aspiring Data Analyst | Skilled in Excel, Python, SQL, and R | Passionate about turning data into actionable insights
