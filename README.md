@@ -4,9 +4,9 @@ An interactive Excel dashboard analyzing key metrics such as Sales, Profit, and 
 
 ## Files
 
-Financial_Dashboard.xlsx – Main dashboard
+[Financial_Dashboard.xlsx –Maindashboard]
 
-README.TXT – Project details
+[README.TXT –Project details]
 
 ## How to Use
 
